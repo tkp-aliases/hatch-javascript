@@ -5,8 +5,8 @@ add_docs: false
 add_extension: python
 add_wiki: false
 email: t.paine154@gmail.com
-github: python-project-templates
-project_description: Hatch plugin for JavaScript
+github: tkp-aliases
+project_description: Alias for hatch-js
 project_name: hatch javascript
 python_version_primary: '3.11'
 team: the hatch-javascript authors

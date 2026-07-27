@@ -9,17 +9,12 @@ name = "hatch-javascript"
 authors = [
     {name = "the hatch-javascript authors", email = "t.paine154@gmail.com"},
 ]
-description = "Hatch plugin for JavaScript"
+description = "Alias for hatch-js"
 readme = "README.md"
 license = { text = "Apache-2.0" }
 version = "0.1.0"
 requires-python = ">=3.11"
-keywords = [
-    "hatch",
-    "python",
-    "build",
-    "javascript",
-]
+keywords = []
 
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -58,8 +53,8 @@ develop = [
 [project.scripts]
 
 [project.urls]
-Repository = "https://github.com/python-project-templates/hatch-javascript"
-Homepage = "https://github.com/python-project-templates/hatch-javascript"
+Repository = "https://github.com/tkp-aliases/hatch-javascript"
+Homepage = "https://github.com/tkp-aliases/hatch-javascript"
 
 [tool.bumpversion]
 current_version = "0.1.0"

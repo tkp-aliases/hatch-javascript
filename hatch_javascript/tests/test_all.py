@@ -1,4 +1,4 @@
-from hatch_javascript import *  # noqa
+from hatch_javascript import *
 
 
 def test_all():
